@@ -10,7 +10,7 @@
 
 	<groupId>nz.ac.auckland.bathe.initializers</groupId>
 	<artifactId>ebean-agent-initializer</artifactId>
-	<version>1.1</version>
+	<version>1.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>ebean-agent-initializer</name>
@@ -50,7 +50,7 @@
 		<url>https://github.com/uoa-group-applications/ebean-agent-initializer</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/ebean-agent-initializer.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/ebean-agent-initializer.git</developerConnection>
-		<tag>ebean-agent-initializer-1.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 </project>
